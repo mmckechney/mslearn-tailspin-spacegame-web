@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mimcke/Tailspin-mwm/_apis/build/status/mmckechney.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/mimcke/Tailspin-mwm/_build/latest?definitionId=9&branchName=master)
 
 # Contributing
 
